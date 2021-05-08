@@ -1,0 +1,22 @@
+{
+    "name": "Structured AI",
+    "short_name": "Structured AI",
+    "theme_color": "#555555",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "./",
+    "start_url": "./",
+    "related_applications": [
+        {
+            "platform": "webapp",
+            "url": "https://www.structuredai.com/manifest.json"
+        }
+    ],
+    "icons": [
+        {
+            "src": "img/logo_light_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
