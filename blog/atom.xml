@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.structuredai.com/blog</id>
-    <title>Structured AI Blog</title>
+    <title>StructuredAI Blog</title>
     <updated>2021-10-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.structuredai.com/blog"/>
-    <subtitle>Structured AI Blog</subtitle>
+    <subtitle>StructuredAI Blog</subtitle>
     <icon>https://www.structuredai.com/img/favicon-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
